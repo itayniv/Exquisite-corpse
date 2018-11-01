@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/HW004_Drawing_Show.unity
+  isLoaded: 1
+  isActive: 1
