@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 3185e04d5000f4c09adb2d306c1bf070
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plane
+    100004: Plane_2
+    100006: Plane_3
+    100008: Plane_4
+    100010: Spotlight_Arm
+    100012: Spotlight_Lens
+    100014: Spotlight_Main
+    100016: Spotlight_Main_Screws
+    100018: Spotlight_Visor_A
+    100020: Spotlight_Visor_B
+    100022: Visor_Panel_01
+    100024: Visor_Panel_02
+    100026: Visor_Panel_03
+    100028: Visor_Panel_04
+    400000: //RootNode
+    400002: Plane
+    400004: Plane_2
+    400006: Plane_3
+    400008: Plane_4
+    400010: Spotlight_Arm
+    400012: Spotlight_Lens
+    400014: Spotlight_Main
+    400016: Spotlight_Main_Screws
+    400018: Spotlight_Visor_A
+    400020: Spotlight_Visor_B
+    400022: Visor_Panel_01
+    400024: Visor_Panel_02
+    400026: Visor_Panel_03
+    400028: Visor_Panel_04
+    2100000: Spotlight-Metal-01
+    2100002: Spotlight-Glass
+    2100004: Spotlight-Metal-02
+    2100006: Spotlight-Mirror
+    2300000: Plane
+    2300002: Plane_2
+    2300004: Plane_3
+    2300006: Plane_4
+    2300008: Spotlight_Arm
+    2300010: Spotlight_Lens
+    2300012: Spotlight_Main
+    2300014: Spotlight_Main_Screws
+    2300016: Spotlight_Visor_A
+    2300018: Spotlight_Visor_B
+    2300020: Visor_Panel_01
+    2300022: Visor_Panel_02
+    2300024: Visor_Panel_03
+    2300026: Visor_Panel_04
+    3300000: Plane
+    3300002: Plane_2
+    3300004: Plane_3
+    3300006: Plane_4
+    3300008: Spotlight_Arm
+    3300010: Spotlight_Lens
+    3300012: Spotlight_Main
+    3300014: Spotlight_Main_Screws
+    3300016: Spotlight_Visor_A
+    3300018: Spotlight_Visor_B
+    3300020: Visor_Panel_01
+    3300022: Visor_Panel_02
+    3300024: Visor_Panel_03
+    3300026: Visor_Panel_04
+    4300000: Spotlight_Arm
+    4300002: Spotlight_Main
+    4300004: Spotlight_Lens
+    4300006: Spotlight_Visor_B
+    4300008: Spotlight_Visor_A
+    4300010: Visor_Panel_01
+    4300012: Plane
+    4300014: Visor_Panel_02
+    4300016: Plane_2
+    4300018: Visor_Panel_03
+    4300020: Plane_3
+    4300022: Visor_Panel_04
+    4300024: Plane_4
+    4300026: Spotlight_Main_Screws
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
