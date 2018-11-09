@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 75b3141f5b94b68408db3a8401e40eac
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arms
+    100002: Body
+    100004: Ear
+    100006: EarSockets
+    100008: Eyes
+    100010: Face
+    100012: Feet
+    100014: Fingers
+    100016: Hands
+    100018: HeadBack
+    100020: Insole
+    100022: Legs
+    100024: Neck
+    100026: Nostrils
+    100028: //RootNode
+    100030: Toes
+    400000: Arms
+    400002: Body
+    400004: Ear
+    400006: EarSockets
+    400008: Eyes
+    400010: Face
+    400012: Feet
+    400014: Fingers
+    400016: Hands
+    400018: HeadBack
+    400020: Insole
+    400022: Legs
+    400024: Neck
+    400026: Nostrils
+    400028: //RootNode
+    400030: Toes
+    2100000: ArmsMat
+    2100002: BodyMat
+    2100004: EarMat
+    2100006: EarSocketsMat
+    2100008: EyesMat
+    2100010: FaceMat
+    2100012: FeetMat
+    2100014: FingersMat
+    2100016: HandsMat
+    2100018: HeadBackMat
+    2100020: InsoleMat
+    2100022: LegsMat
+    2100024: NeckMat
+    2100026: NostrilsMat
+    2100028: ToesMat
+    2300000: Arms
+    2300002: Body
+    2300004: Ear
+    2300006: EarSockets
+    2300008: Eyes
+    2300010: Face
+    2300012: Feet
+    2300014: Fingers
+    2300016: Hands
+    2300018: HeadBack
+    2300020: Insole
+    2300022: Legs
+    2300024: Neck
+    2300026: Nostrils
+    2300028: Toes
+    3300000: Arms
+    3300002: Body
+    3300004: Ear
+    3300006: EarSockets
+    3300008: Eyes
+    3300010: Face
+    3300012: Feet
+    3300014: Fingers
+    3300016: Hands
+    3300018: HeadBack
+    3300020: Insole
+    3300022: Legs
+    3300024: Neck
+    3300026: Nostrils
+    3300028: Toes
+    4300000: Arms
+    4300002: Body
+    4300004: Ear
+    4300006: EarSockets
+    4300008: Eyes
+    4300010: Face
+    4300012: Feet
+    4300014: Fingers
+    4300016: Hands
+    4300018: HeadBack
+    4300020: Insole
+    4300022: Legs
+    4300024: Neck
+    4300026: Nostrils
+    4300028: Toes
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

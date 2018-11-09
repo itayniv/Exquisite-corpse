@@ -27,7 +27,7 @@ public class GameAction : MonoBehaviour {
        
         if (currentMode == controllerMode.DRAWING)
         {
-            GetComponentInChildren<DrawingEngine>().initializeNewLine(position);
+           // GetComponentInChildren<DrawingEngine>().initializeNewLine(position);
 
         }
         else if (currentMode == controllerMode.CREATE)
@@ -41,7 +41,7 @@ public class GameAction : MonoBehaviour {
        
         if (currentMode == controllerMode.DRAWING)
         {
-            GetComponentInChildren<DrawingEngine>().DrawPoint(position);
+           // GetComponentInChildren<DrawingEngine>().DrawPoint(position);
 
         }
 

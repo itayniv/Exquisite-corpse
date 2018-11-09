@@ -6,6 +6,13 @@ TagManager:
   tags:
   - projectile
   - FxTemporaire
+  - RIG_SOFIA_HEAD
+  - RIG_SOFIA_LEFTHEAD
+  - RIG_SOFIA_RIGHTLEG
+  - RIG_SOFIA_RIGHTARM
+  - RIG_SOFIA_LEFTARM
+  - RIG_SOFIA_LEFTLEG
+  - RIG_SOFIA_CORE
   layers:
   - Default
   - TransparentFX
